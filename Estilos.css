@@ -1,0 +1,44 @@
+h1{
+   color: rgb(72, 255, 0); 
+}
+body{
+    background-image: url(3415222.jpg);
+    background-size: 100%;
+}
+p{
+   text-align: justify;
+   color: white; 
+}
+footer{
+   color: blanchedalmond;
+}
+.peliculas{
+color: aqua;
+}
+.libros{
+color:  white;
+font-weight: bold;
+}
+img{
+   border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+thead{
+   font-size: 100%;
+}
+table{
+   border-style: inset;
+}
+#encabezado{
+   color: antiquewhite;
+   font-size: 50px;
+   font-weight:bold;
+}
+tr{
+   color: antiquewhite;
+}
+ul{
+   color: bisque;
+}
